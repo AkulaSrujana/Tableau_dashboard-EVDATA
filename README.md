@@ -9,3 +9,6 @@ This Repository contains some key insights about the market & demand for Electri
 
 
 
+##Link to view my work in a dynamic way, where you can explore different insights on your own
+
+[https://public.tableau.com/app/profile/srujana.akula2238/viz/EVpopulationData/Dashboard1]
